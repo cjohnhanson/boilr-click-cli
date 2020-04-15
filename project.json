@@ -1,0 +1,13 @@
+{
+    "Name": "Click CLI App",
+    "ProjectSlug": "click_cli",
+    "Command": "click-cli",
+    "License": [
+        "Apache Software License 2.0",
+        "MIT", 
+        "GNU GPL v3.0"
+    ],
+    "Version": "0.1.0",
+    "Description": "A command-line tool built with Click",
+    "Author": "Cody Hanson"
+}
